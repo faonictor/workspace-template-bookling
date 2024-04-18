@@ -21,7 +21,7 @@
     <div class="body-wrapper">
       <div>
       <?php
-      include 'navigator.php';
+      include 'navigator-admin.php';
       ?>
       </div>
 
