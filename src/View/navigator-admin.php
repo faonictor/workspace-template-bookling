@@ -8,7 +8,7 @@
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link nav-icon-hover" href="./shoppingCart.php">
+                <a class="nav-link nav-icon-hover" href="#">
                     <i class="ti ti-bell"></i>
                     <div class="notification bg-primary rounded-circle"></div>
                 </a>
