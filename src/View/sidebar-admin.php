@@ -22,24 +22,30 @@
               <span>
                 <i class="ti ti-home"></i>
               </span>
-              <span class="hide-menu">Início</span>
+              <span class=" hide-menu">Início</span>
             </a>
           </li>
         </div>
         <div id="flush-collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionFlush">
           <li class="sidebar-item ">
             <div class="accordion accordion-flush">
-              <a class="sidebar-link" href="./index.php" aria-expanded="false">
+              <a class="sidebar-link" href="./adminZone.php" aria-expanded="false">
                 <span>
                   <i class="ti ti-apps"></i>
                 </span>
                 <span class="hide-menu">Painel</span>
               </a>
-              <a class="sidebar-link" href="./index.php" aria-expanded="false">
+              <a class="sidebar-link" href="#" aria-expanded="false">
                 <span>
                   <i class="ti ti-user"></i>
                 </span>
                 <span class="hide-menu">Perfil</span>
+              </a>
+              <a class="sidebar-link" href="#" aria-expanded="false">
+                <span>
+                  <i class="ti ti-checks"></i>
+                </span>
+                <span class="hide-menu">Permissões</span>
               </a>
             </div>
           </li>
@@ -47,7 +53,6 @@
         </li>
         <!-- End-Acoordion1 -->
         
-
         <!-- Acoordion2 -->
         <div class="accordion accordion-flush" id="accordionFlush2">
           <li class=" sidebar-item">
@@ -55,26 +60,26 @@
               <span>
                 <i class="ti ti-book-2"></i>
               </span>
-              <span class="hide-menu">Livros</span>
+              <span class="hide-menu">Catálogo</span>
             </a>
           </li>
         </div>
         <div id="flush-collapseOne2" class="accordion-collapse collapse" data-bs-parent="#accordionFlush2">
           <li class="sidebar-item ">
             <div class="accordion accordion-flush">
-              <a class="sidebar-link" href="./mybooksList.php" aria-expanded="false">
+              <a class="sidebar-link" href="./formbookNew.php" aria-expanded="false">
                 <span>
-                  <i class="ti ti-books"></i>
+                  <i class="ti ti-square-plus"></i>
                 </span>
-                <span class="hide-menu">Meus Livros</span>
+                <span class="hide-menu">Cadastrar</span>
               </a>
-              <a class="sidebar-link" href="./catalogoBook.php" aria-expanded="false">
+              <a class="sidebar-link" href="#" aria-expanded="false">
                 <span>
-                  <i class="ti ti-shopping-cart-plus"></i>
+                  <i class="ti ti-edit"></i>
                 </span>
-                <span class="hide-menu">Comprar</span>
+                <span class="hide-menu">Editar</span>
               </a>
-              <a class="sidebar-link" href="./index.php" aria-expanded="false">
+              <a class="sidebar-link" href="#" aria-expanded="false">
                 <span>
                   <i class="ti ti-bookmark"></i>
                 </span>
@@ -84,21 +89,27 @@
           </li>
         </div>
         </li>
-        <!-- End-Acoordion1 -->
+        <!-- End-Acoordion2 -->
         <li class="sidebar-item">
           <a class="sidebar-link" href="#" aria-expanded="false">
             <span>
-              <i class="ti ti-book"></i>
+              <i class="ti ti-settings-automation"></i>
             </span>
-            <span class="hide-menu">Leitura</span>
+            <span class="hide-menu">Configurações</span>
           </a>
         </li>
         <li class="sidebar-item">
-          <a class="sidebar-link" href="./authentication-login.php" aria-expanded="false">
+          <a class="sidebar-link" href="#" aria-expanded="false">
             <span>
-              <i class="ti ti-user-circle"></i>
+              <i class="ti ti-cash"></i>
             </span>
-            <span class="hide-menu">Login</span>
+            <span class="hide-menu">Vendas</span>
+          </a>
+          <a class="sidebar-link" href="#" aria-expanded="false">
+            <span>
+              <i class="ti ti-coin"></i>
+            </span>
+            <span class="hide-menu">Financeiro</span>
           </a>
         </li>
       </ul>

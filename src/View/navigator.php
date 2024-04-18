@@ -8,8 +8,8 @@
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link nav-icon-hover" href="javascript:void(0)">
-                    <i class="ti ti-bell-ringing"></i>
+                <a class="nav-link nav-icon-hover" href="./shoppingCart.php">
+                    <i class="ti ti-shopping-cart"></i>
                     <div class="notification bg-primary rounded-circle"></div>
                 </a>
                 <div class="dropdown-menu dropdown-menu-end dropdown-menu-animate-up" aria-labelledby="drop2">
@@ -33,10 +33,10 @@
         </ul>
         <div class="navbar-collapse justify-content-end px-0" id="navbarNav">
             <ul class="navbar-nav flex-row ms-auto align-items-center justify-content-end">
-                <!-- <a href="./authentication-register.7899999" target="_blank" class="btn btn-primary">Já tem uma Conta</a> -->
+                <a href="./adminZone.php" class="btn btn-primary">Área Administrador</a>
                 <li class="nav-item dropdown">
                     <a class="nav-link nav-icon-hover" href="javascript:void(0)" id="drop2" data-bs-toggle="dropdown" aria-expanded="false">
-                        <img src="../assets/images/profile/user-1.jpg" alt="" width="35" height="35" class="rounded-circle">
+                        <img src="./images/profile/user-1.jpg" alt="" width="35" height="35" class="rounded-circle">
                     </a>
                     <div class="dropdown-menu dropdown-menu-end dropdown-menu-animate-up" aria-labelledby="drop2">
                         <div class="message-body">
