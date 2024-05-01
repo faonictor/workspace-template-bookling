@@ -126,8 +126,8 @@
       <div class="col-sm-6 col-xl-3">
         <div class="card overflow-hidden rounded-2">
           <div class="position-relative">
-            <a href="javascript:void(0)"><img src="./images/products/s7.jpg" class="card-img-top rounded-0" alt="..."></a>
-            <a href="javascript:void(0)" class="bg-primary rounded-circle p-2 text-white d-inline-flex position-absolute bottom-0 end-0 mb-n3 me-3" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="Add To Cart"><i class="ti ti-basket fs-4"></i></a>
+            <a href="./aboutBook.php"><img src="./images/products/s7.jpg" class="card-img-top rounded-0" alt="..."></a>
+            <a onclick="window.alert('Adicionado com Sucesso')" href="javascript:void(0)" class="bg-primary rounded-circle p-2 text-white d-inline-flex position-absolute bottom-0 end-0 mb-n3 me-3" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="Add To Cart"><i class="ti ti-basket fs-4"></i></a>
           </div>
           <div class="card-body pt-3 p-4">
             <h6 class="fw-semibold fs-4">Neuromancer - William Gibson</h6>
@@ -147,8 +147,8 @@
       <div class="col-sm-6 col-xl-3">
         <div class="card overflow-hidden rounded-2">
           <div class="position-relative">
-            <a href="javascript:void(0)"><img src="./images/products/s5.jpg" class="card-img-top rounded-0" alt="..."></a>
-            <a href="javascript:void(0)" class="bg-primary rounded-circle p-2 text-white d-inline-flex position-absolute bottom-0 end-0 mb-n3 me-3" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="Add To Cart"><i class="ti ti-basket fs-4"></i></a>
+            <a href="./aboutBook.php"><img src="./images/products/s5.jpg" class="card-img-top rounded-0" alt="..."></a>
+            <a onclick="window.alert('Adicionado com Sucesso')" href="javascript:void(0)" class="bg-primary rounded-circle p-2 text-white d-inline-flex position-absolute bottom-0 end-0 mb-n3 me-3" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="Add To Cart"><i class="ti ti-basket fs-4"></i></a>
           </div>
           <div class="card-body pt-3 p-4">
             <h6 class="fw-semibold fs-4">Revolução dos Bichos - Jorge Orwell</h6>
@@ -168,8 +168,8 @@
       <div class="col-sm-6 col-xl-3">
         <div class="card overflow-hidden rounded-2">
           <div class="position-relative">
-            <a href="javascript:void(0)"><img src="./images/products/s4.jpg" class="card-img-top rounded-0" alt="..."></a>
-            <a href="javascript:void(0)" class="bg-primary rounded-circle p-2 text-white d-inline-flex position-absolute bottom-0 end-0 mb-n3 me-3" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="Add To Cart"><i class="ti ti-basket fs-4"></i></a>
+            <a href="./aboutBook.php"><img src="./images/products/s4.jpg" class="card-img-top rounded-0" alt="..."></a>
+            <a onclick="window.alert('Adicionado com Sucesso')" href="javascript:void(0)" class="bg-primary rounded-circle p-2 text-white d-inline-flex position-absolute bottom-0 end-0 mb-n3 me-3" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="Add To Cart"><i class="ti ti-basket fs-4"></i></a>
           </div>
           <div class="card-body pt-3 p-4">
             <h6 class="fw-semibold fs-4">O problema dos 3 Corpos - Cixin Liu</h6>
@@ -189,8 +189,8 @@
       <div class="col-sm-6 col-xl-3">
         <div class="card overflow-hidden rounded-2">
           <div class="position-relative">
-            <a href="javascript:void(0)"><img src="./images/products/s1.jpg" class="card-img-top rounded-0" alt="..."></a>
-            <a href="javascript:void(0)" class="bg-primary rounded-circle p-2 text-white d-inline-flex position-absolute bottom-0 end-0 mb-n3 me-3" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="Add To Cart"><i class="ti ti-basket fs-4"></i></a>
+            <a href="./aboutBook.php"><img src="./images/products/s1.jpg" class="card-img-top rounded-0" alt="..."></a>
+            <a onclick="window.alert('Adicionado com Sucesso')" href="javascript:void(0)" class="bg-primary rounded-circle p-2 text-white d-inline-flex position-absolute bottom-0 end-0 mb-n3 me-3" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="Add To Cart"><i class="ti ti-basket fs-4"></i></a>
           </div>
           <div class="card-body pt-3 p-4">
             <h6 class="fw-semibold fs-4">A Biblioteca da Meia-Noite - Math Haig</h6>
